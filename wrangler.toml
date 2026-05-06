@@ -15,7 +15,7 @@ crons = ["0 * * * *"]  # 每小时触发，实际执行频率由 Admin 设置的
 [[kv_namespaces]]
 binding = "tvbox-kv"
 id = "69fadb22a536446e9dada5819269b37e"
-preview_id = "69fadb22a536446e9dada5819269b37e"
+preview_id = "d314dad73a844adf9cef55e15fc95b1a"
 
 [vars]
 SPEED_TIMEOUT_MS = "5000"   # 源地址延迟阈值（毫秒）
